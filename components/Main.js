@@ -1,17 +1,17 @@
-// import "./styles"
 import React from "react";
-import { useState } from "react";
-import { Col, Row } from "react-bootstrap";
-
-// import ReactDOM from 'react-dom'
-// import CSVReader from 'react-csv-reader'
 import Card from "./Card.js";
 import CardBack from "./CardBack.js";
+import { mineralsTemplatedFile } from "./HistoricalListsOfAllLabels.js";
+import { localityTemplatesFile } from "./templates_locality.js";
+
+// import "./styles"
+// import { useState } from "react";
+// import { Col, Row } from "react-bootstrap";
+// import ReactDOM from 'react-dom'
+// import CSVReader from 'react-csv-reader'
 // import "./App.css";
 // import 'bootstrap/dist/css/bootstrap.min.css';
 // import { Row,Col } from 'react-bootstrap';
-import { mineralsTemplatedFile } from "./HistoricalListsOfAllLabels.js";
-import { localityTemplatesFile } from "./templates_locality.js";
 
 class Main extends React.Component {
   constructor(props) {
