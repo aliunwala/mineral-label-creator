@@ -96,19 +96,6 @@ let mineralsTemplatedFile = [
     // { "id": "2054", "localityTag": "", "purchaseDate": "", "purchasePrice": "USD ", "minerals": [""] },
     // { "id": "2053", "localityTag": "", "purchaseDate": "", "purchasePrice": "USD ", "minerals": [""] },
     // { "id": "2052", "localityTag": "", "purchaseDate": "", "purchasePrice": "USD ", "minerals": [""] },
-    // { "id": "2051", "localityTag": "", "purchaseDate": "", "purchasePrice": "USD ", "minerals": [""] },
-    // { "id": "2050", "localityTag": "", "purchaseDate": "", "purchasePrice": "USD ", "minerals": [""] },
-    // { "id": "2049", "localityTag": "", "purchaseDate": "", "purchasePrice": "USD ", "minerals": [""] },
-    // { "id": "2048", "localityTag": "", "purchaseDate": "", "purchasePrice": "USD ", "minerals": [""] },
-    // { "id": "2047", "localityTag": "", "purchaseDate": "", "purchasePrice": "USD ", "minerals": [""] },
-    // { "id": "2046", "localityTag": "", "purchaseDate": "", "purchasePrice": "USD ", "minerals": [""] },
-    // { "id": "2045", "localityTag": "", "purchaseDate": "", "purchasePrice": "USD ", "minerals": [""] },
-    // { "id": "2044", "localityTag": "", "purchaseDate": "", "purchasePrice": "USD ", "minerals": [""] },
-    // { "id": "2043", "localityTag": "", "purchaseDate": "", "purchasePrice": "USD ", "minerals": [""] },
-    // { "id": "2042", "localityTag": "", "purchaseDate": "", "purchasePrice": "USD ", "minerals": [""] },
-    // { "id": "2041", "localityTag": "", "purchaseDate": "", "purchasePrice": "USD ", "minerals": [""] },
-    // { "id": "2040", "localityTag": "", "purchaseDate": "", "purchasePrice": "USD ", "minerals": [""] },
-    // { "id": "2039", "localityTag": "", "purchaseDate": "", "purchasePrice": "USD ", "minerals": [""] },
     
     
     
@@ -120,29 +107,43 @@ let mineralsTemplatedFile = [
     //------------------------------Group 13
     //------------------------------Group 12
     // /Users/goatfig/git/LabelCreationProjectAndMineralDB/mineralLabelGenerationWebsite/src/ebayImageScrapingScript.js
-
-    { "id": "2038", "localityTag": "", "purchaseDate": "Jul 01, 2024", "purchasePrice": "USD ", "minerals": [""] },
-    { "id": "2037", "localityTag": "", "purchaseDate": "Jul 01, 2024", "purchasePrice": "USD ", "minerals": [""] },
-    { "id": "2036", "localityTag": "", "purchaseDate": "Jul 01, 2024", "purchasePrice": "USD ", "minerals": [""] },
-    { "id": "2035", "localityTag": "", "purchaseDate": "Jul 01, 2024", "purchasePrice": "USD ", "minerals": [""] },
-    { "id": "2034", "localityTag": "", "purchaseDate": "Jul 01, 2024", "purchasePrice": "USD ", "minerals": [""] },
+    
+    { "id": "2051", "localityTag": "usa_nevada_lodi", "purchaseDate": "Jul 11, 2024", "purchasePrice": "USD 19", "minerals": ["Adamite"] },
+    { "id": "2050", "localityTag": "mali_diakon", "purchaseDate": "Jul 11, 2024", "purchasePrice": "USD 2", "minerals": ["Epidote"] },
+    { "id": "2049", "localityTag": "usa_illinois_cave_in_rock", "purchaseDate": "Jul 11, 2024", "purchasePrice": "USD 12", "minerals": ["Fluorite"] },
+    { "id": "2048", "localityTag": "usa_nevada_smiley", "purchaseDate": "Jul 11, 2024", "purchasePrice": "USD 3", "minerals": ["Hemimorphite","Magnesite"] },
+    { "id": "2047", "localityTag": "africa_namibia_goboboseb_mountains", "purchaseDate": "Jul 11, 2024", "purchasePrice": "USD 5", "minerals": ["Calcite","Amethyst"] },
+    { "id": "2046", "localityTag": "usa_arizona_yuma", "purchaseDate": "Jul 11, 2024", "purchasePrice": "USD 2", "minerals": ["Hematite"] },
+    { "id": "2045", "localityTag": "africa_namibia_erongo", "purchaseDate": "Jul 11, 2024", "purchasePrice": "USD 4", "minerals": ["Aquamarine"] },
+    { "id": "2044", "localityTag": "usa_nevada_blue_bird", "purchaseDate": "Jul 11, 2024", "purchasePrice": "USD 6", "minerals": ["Chrysocolla"] },
+    { "id": "2043", "localityTag": "africa_namibia_goboboseb_mountains", "purchaseDate": "Jul 11, 2024", "purchasePrice": "USD 3", "minerals": ["Fluorite"] },
+    { "id": "2042", "localityTag": "usa_south_dakota_elk_creek", "purchaseDate": "Jul 11, 2024", "purchasePrice": "USD 12", "minerals": ["Barite","Calcite"] },
+    { "id": "2041", "localityTag": "usa_utah_blue_bird", "purchaseDate": "Jul 11, 2024", "purchasePrice": "USD 6", "minerals": ["Celestine"] },
+    { "id": "2040", "localityTag": "canada_poudrette", "purchaseDate": "Jul 11, 2024", "purchasePrice": "USD 4", "minerals": ["Rhodochrosite"] },
+    { "id": "2039", "localityTag": "ethiopia_konso", "purchaseDate": "Jul 11, 2024", "purchasePrice": "USD 5", "minerals": ["Amazonite"] },
+    
+    { "id": "2038", "localityTag": "china_beijing", "purchaseDate": "Jul 11, 2024", "purchasePrice": "USD 7", "minerals": ["Fluorite"] },
+    { "id": "2037", "localityTag": "china_beijing", "purchaseDate": "Jul 11, 2024", "purchasePrice": "USD 7", "minerals": ["Fluorite"] },
+    { "id": "2036", "localityTag": "china_yaogangxian", "purchaseDate": "Jul 11, 2024", "purchasePrice": "USD 8", "minerals": ["Fluorite"] },
+    { "id": "2035", "localityTag": "china_beijing", "purchaseDate": "Jul 11, 2024", "purchasePrice": "USD 7", "minerals": ["Fluorite"] },
+    { "id": "2034", "localityTag": "china_beijing", "purchaseDate": "Jul 11, 2024", "purchasePrice": "USD 10", "minerals": ["Fluorite"] },
 
     { "id": "2033", "localityTag": "brazil_vaca_morta", "purchaseDate": "Jul 01, 2024", "purchasePrice": "USD 5", "minerals": ["Dumortierite", "Quartz"] },
 
     { "id": "2032", "localityTag": "usa_dug_hill", "purchaseDate": "Jul 01, 2024", "purchasePrice": "USD 17", "minerals": ["Wavellite"] },
     { "id": "2031", "localityTag": "morocco_agoudal", "purchaseDate": "Jul 01, 2024", "purchasePrice": "USD 27", "minerals": ["Cobalt-bearing Calcite"] },
 
-    { "id": "2030", "localityTag": "", "purchaseDate": "Jul 01, 2024", "purchasePrice": "USD 9", "minerals": ["Quartz","Moving Graphite Bubble"] },
-    { "id": "2029", "localityTag": "", "purchaseDate": "Jul 01, 2024", "purchasePrice": "USD 6", "minerals": ["Quartz"] },
-    { "id": "2028", "localityTag": "", "purchaseDate": "Jul 01, 2024", "purchasePrice": "USD 3", "minerals": ["Quartz","Moving Graphite Bubble"] },
-    { "id": "2027", "localityTag": "", "purchaseDate": "Jul 01, 2024", "purchasePrice": "USD 11", "minerals": ["Quartz","Moving Graphite Bubble"] },
+    { "id": "2030", "localityTag": "china_cong_ly", "purchaseDate": "Jul 01, 2024", "purchasePrice": "USD 9", "minerals": ["Quartz","Moving Graphite Bubble"] },
+    { "id": "2029", "localityTag": "brazil_minas_gerais", "purchaseDate": "Jul 01, 2024", "purchasePrice": "USD 6", "minerals": ["Quartz"] },
+    { "id": "2028", "localityTag": "china_cong_ly", "purchaseDate": "Jul 01, 2024", "purchasePrice": "USD 3", "minerals": ["Quartz","Moving Graphite Bubble"] },
+    { "id": "2027", "localityTag": "china_cong_ly", "purchaseDate": "Jul 01, 2024", "purchasePrice": "USD 11", "minerals": ["Quartz","Moving Graphite Bubble"] },
 
     { "id": "2026", "localityTag": "myanmar_pyant_gyi", "purchaseDate": "Jul 01, 2024", "purchasePrice": "USD 1", "minerals": ["Uvite Tourmaline"] },
     { "id": "2025", "localityTag": "myanmar_pyant_gyi", "purchaseDate": "Jul 01, 2024", "purchasePrice": "USD 1", "minerals": ["Uvite Tourmaline"] },
     { "id": "2024", "localityTag": "myanmar_pyant_gyi", "purchaseDate": "Jul 01, 2024", "purchasePrice": "USD 1", "minerals": ["Uvite Tourmaline"] },
     { "id": "2023", "localityTag": "myanmar_pyant_gyi", "purchaseDate": "Jul 01, 2024", "purchasePrice": "USD 1", "minerals": ["Uvite Tourmaline"] },
     { "id": "2022", "localityTag": "myanmar_pyant_gyi", "purchaseDate": "Jul 01, 2024", "purchasePrice": "USD 1", "minerals": ["Uvite Tourmaline"] },
-    { "id": "2021", "localityTag": "myanmar_pyant_gyi", "purchaseDate": "Jul 01, 2024", "purchasePrice": "USD 1", "minerals": ["Uvite Tourmaline"] },https://boards.greenhouse.io/crunchyroll/jobs/6071893?gh_jid=6071893&gh_src=70b15d081us
+    { "id": "2021", "localityTag": "myanmar_pyant_gyi", "purchaseDate": "Jul 01, 2024", "purchasePrice": "USD 1", "minerals": ["Uvite Tourmaline"] },
     { "id": "2020", "localityTag": "myanmar_pyant_gyi", "purchaseDate": "Jul 01, 2024", "purchasePrice": "USD 1", "minerals": ["Uvite Tourmaline"] },
     { "id": "2019", "localityTag": "myanmar_pyant_gyi", "purchaseDate": "Jul 01, 2024", "purchasePrice": "USD 1", "minerals": ["Uvite Tourmaline"] },
     { "id": "2018", "localityTag": "myanmar_pyant_gyi", "purchaseDate": "Jul 01, 2024", "purchasePrice": "USD 1", "minerals": ["Uvite Tourmaline"] },
